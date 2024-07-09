@@ -21,11 +21,6 @@ body {
     margin-left: 250px;
     padding: 20px;
 }
-.profile img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-}
 @media (max-width: 767.98px) {
     .sidebar {
         width: 100%;
